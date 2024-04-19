@@ -72,27 +72,27 @@ const Card2 = () => {
             {/* Row of 5 small images */}
             <div className="mt-2 grid grid-cols-5 gap-2">
     <img
-        src="https://via.placeholder.com/50?text=1"
+        src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
         alt="Image 1"
         className="w-full h-12 object-cover rounded-lg"
     />
     <img
-        src="https://via.placeholder.com/50?text=2"
+        src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
         alt="Image 2"
         className="w-full h-12 object-cover rounded-lg"
     />
     <img
-        src="https://via.placeholder.com/50?text=3"
+        src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
         alt="Image 3"
         className="w-full h-12 object-cover rounded-lg"
     />
     <img
-        src="https://via.placeholder.com/50?text=4"
+        src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
         alt="Image 4"
         className="w-full h-12 object-cover rounded-lg"
     />
     <img
-        src="https://via.placeholder.com/50?text=5"
+        src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
         alt="Image 5"
         className="w-full h-12 object-cover rounded-lg"
     />
