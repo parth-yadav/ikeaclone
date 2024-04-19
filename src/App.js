@@ -14,6 +14,7 @@ import YellowSquareDiv from './yellowdiv';
 import VcardRow from './vertgrid';
 import SofaInfo from './info';
 import Navbar from './Navbar';
+import Footer from './footer';
 function App() {
   return (
     <>
@@ -79,6 +80,7 @@ If you need help buying a new sofa, start here
 <HorizontalScrollMenu/>
 
 <SofaInfo/>
+<Footer/>
 
 
 
