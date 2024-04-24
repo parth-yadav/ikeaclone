@@ -5,7 +5,7 @@ import Text from './text';
 import Image from './images';
 import ToggleButton from './toggle';
 import ButtonList2 from './buttonlist_2';
-import Card2 from './card2';
+
 import RenderGrid from './grid';
 import ImageCollage from './secondgid';
 import HorizontalScrollMenu from './horimenu';

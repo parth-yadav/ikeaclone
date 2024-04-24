@@ -6,7 +6,7 @@ const VertCard = () => {
             {/* Image at the top, taking 30% of the card's height */}
             <img
                 src="https://www.ikea.com/images/jaettebo-series-4aeab9d3b5d5c17920756c715aba35ce.jpg?f=s"
-                alt="Card Image"
+               
                 className="w-full h-[30%] object-cover rounded-t-lg"
             />
 
