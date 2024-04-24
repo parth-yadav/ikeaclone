@@ -20,7 +20,7 @@ const Card2 = () => {
             {/* Image */}
             <img
                 src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-beige__0868907_pe781417_s5.jpg?f=xxs/150"
-               
+                alt='img1'
                 className="w-full h-48 object-cover rounded-lg"
             />
 
@@ -73,27 +73,27 @@ const Card2 = () => {
             <div className="mt-2 grid grid-cols-5 gap-2">
     <img
         src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
-      
+        alt="Image 1"
         className="w-full h-12 object-cover rounded-lg"
     />
     <img
         src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
-      
+        alt='Image 2'
         className="w-full h-12 object-cover rounded-lg"
     />
     <img
         src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
-      
+        alt='Image 3'
         className="w-full h-12 object-cover rounded-lg"
     />
     <img
         src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
-       
+        alt='Image 4'
         className="w-full h-12 object-cover rounded-lg"
     />
     <img
         src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
-     
+        alt='Image 5'
         className="w-full h-12 object-cover rounded-lg"
     />
 </div>
