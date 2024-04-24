@@ -73,17 +73,19 @@ const Card2 = () => {
             <div className="mt-2 grid grid-cols-5 gap-2">
     <img
         src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
-        alt="Image 1"
+        alt="Image_1"
         className="w-full h-12 object-cover rounded-lg"
     />
+
     <img
         src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
-        alt='Image 2'
+        alt='Image_2'
         className="w-full h-12 object-cover rounded-lg"
     />
+
     <img
         src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
-        alt='Image 3'
+        alt='Image_3'
         className="w-full h-12 object-cover rounded-lg"
     />
     <img
@@ -93,7 +95,7 @@ const Card2 = () => {
     />
     <img
         src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
-        alt='Image 5'
+        alt='Image_5'
         className="w-full h-12 object-cover rounded-lg"
     />
 </div>
