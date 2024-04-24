@@ -12,8 +12,8 @@ const Footer = () => {
                     </p>
                     
                     <ul className="text-sm space-y-2">
-                        <li><a href="#" className="bg-black text-white px-4 py-2 rounded-md">Join now</a></li>
-                        <li><a href="#" className="text-blue-600 underline">See more</a></li>
+                        <li><a href="https://example.com" className="bg-black text-white px-4 py-2 rounded-md">Join now</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">See more</a></li>
                         
                     </ul>
                 </div>
