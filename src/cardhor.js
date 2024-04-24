@@ -20,7 +20,7 @@ const CardHor = () => {
             {/* Image */}
             <img
                 src="https://www.ikea.com/in/en/images/products/landskrona-2-seat-sofa-djuparp-dark-blue-wood__0990490_pe819007_s5.jpg?f=xxs"
-                alt="Product"
+                alt=""
                 className="w-full h-48 object-cover rounded-lg"
             />
 
@@ -73,27 +73,27 @@ const CardHor = () => {
             <div className="mt-2 grid grid-cols-5 gap-2">
     <img
         src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
-        alt="Image 1"
+        alt=""
         className="w-full h-12 object-cover rounded-lg"
     />
     <img
         src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
-        alt="Image 2"
+        alt=""
         className="w-full h-12 object-cover rounded-lg"
     />
     <img
         src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
-        alt="Image 3"
+        alt=""
         className="w-full h-12 object-cover rounded-lg"
     />
     <img
         src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
-        alt="Image 4"
+        alt=""
         className="w-full h-12 object-cover rounded-lg"
     />
     <img
         src="https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-red__0868918_pe781428_s5.jpg?f=xu"
-        alt="Image 5"
+        alt=""
         className="w-full h-12 object-cover rounded-lg"
     />
 </div>

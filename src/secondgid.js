@@ -8,8 +8,8 @@ const ImageCollage = () => {
             <div className="w-1/2 h-full">
                 <img
                     src="https://www.ikea.com/ext/ingkadam/m/24c983181c6e7c59/original/PH187010-crop002.jpg?f=xl"
-                    
-                    className="h-full w-full object-cover"
+                    alt=""
+                        className="h-full w-full object-cover"
                 />
             </div>
 
@@ -19,8 +19,8 @@ const ImageCollage = () => {
                 <div className="w-[350px] h-[600px] m-2">
             <img
                 src="https://www.ikea.com/ext/ingkadam/m/1427af785fe647b8/original/PH181137-crop001.jpg?f=xs"
-               
-                className="w-full h-full object-cover"
+               alt=""
+               className="w-full h-full object-cover"
             />
         </div>  
 
@@ -28,8 +28,8 @@ const ImageCollage = () => {
                 <div className="w-[350px] h-[200px] m-2">
             <img
                 src="https://www.ikea.com/ext/ingkadam/m/1427af785fe647b8/original/PH181137-crop001.jpg?f=xs"
-              
-                className="w-full h-full object-cover"
+              alt=""
+              className="w-full h-full object-cover"
             />
         </div>
 
@@ -40,16 +40,16 @@ const ImageCollage = () => {
                 <div className="w-[350px] h-[400px] m-2">
             <img
                 src="https://www.ikea.com/ext/ingkadam/m/1427af785fe647b8/original/PH181137-crop001.jpg?f=xs"
-               
-                className="w-full h-full object-cover"
+               alt=""
+               className="w-full h-full object-cover"
             />
         </div>
                 {/* Second image */}
                 <div className="w-[350px] h-[480px] m-2">
             <img
                 src="https://www.ikea.com/ext/ingkadam/m/1427af785fe647b8/original/PH181137-crop001.jpg?f=xs"
-            
-                className="w-full h-full object-cover"
+            alt=""
+            className="w-full h-full object-cover"
             />
         </div>
 

@@ -32,10 +32,10 @@ const Footer = () => {
                 <div className="w-full md:w-1/5 mb-6 md:mb-0">
                     <h3 className="text-lg font-semibold mb-2">IKEA Family</h3>
                     <ul className="text-sm space-y-2">
-                        <li><a href="#" className="text-blue-600 underline">Log in</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Join IKEA Family</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Member offers</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Workshops & Events</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Log in</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Join IKEA Family</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Member offers</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Workshops & Events</a></li>
                     </ul>
                 </div>
 
@@ -43,17 +43,17 @@ const Footer = () => {
                 <div className="w-full md:w-1/5 mb-6 md:mb-0">
                     <h3 className="text-lg font-semibold mb-2">Services</h3>
                     <ul className="text-sm space-y-2">
-                        <li><a href="#" className="text-blue-600 underline">Delivery Service</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Click & Collect</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Personal shopper</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Design your room</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Assembly Service</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Measuring Service</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Kitchen Planning</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Installation Service</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Track Your Order</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Customer Service</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Recycle Program</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Delivery Service</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Click & Collect</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Personal shopper</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Design your room</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Assembly Service</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Measuring Service</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Kitchen Planning</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Installation Service</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Track Your Order</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Customer Service</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Recycle Program</a></li>
                     </ul>
                 </div>
 
@@ -61,15 +61,15 @@ const Footer = () => {
                 <div className="w-full md:w-1/5 mb-6 md:mb-0">
                     <h3 className="text-lg font-semibold mb-2">Help</h3>
                     <ul className="text-sm space-y-2">
-                        <li><a href="#" className="text-blue-600 underline">How to shop</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Return policy</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Prices and price tags</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Contact us</a></li>
-                        <li><a href="#" className="text-blue-600 underline">FAQ's</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Planners</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Gift Card</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Feedback</a></li>
-                        <li><a href="#" className="text-blue-600 underline">Terms and conditions</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">How to shop</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Return policy</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Prices and price tags</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Contact us</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">FAQ's</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Planners</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Gift Card</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Feedback</a></li>
+                        <li><a href="https://example.com" className="text-blue-600 underline">Terms and conditions</a></li>
                     </ul>
                 </div>
             </div>
